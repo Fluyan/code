@@ -5,7 +5,7 @@ const glob = require('glob')
 const ExtractTextPlugin = require("extract-text-webpack-plugin")
 var CopyWebpackPlugin = require('copy-webpack-plugin')
 
-
+//注释信息
 
 
 const HtmlWebpackPlugin = require('html-webpack-plugin')
