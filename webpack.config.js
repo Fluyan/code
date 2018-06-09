@@ -6,6 +6,7 @@ const ExtractTextPlugin = require("extract-text-webpack-plugin")
 var CopyWebpackPlugin = require('copy-webpack-plugin')
 
 //注释信息
+//记住密码
 
 
 const HtmlWebpackPlugin = require('html-webpack-plugin')
